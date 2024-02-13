@@ -1,0 +1,14 @@
+# Set the default behavior for text files
+* text=auto
+
+# Specify files that should always have LF line endings
+*.md text eol=lf
+*.txt text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# Specify binary files (use 'binary' attribute to avoid Git attempting to normalize line endings)
+*.png binary
+*.jpg binary
+*.gif binary
