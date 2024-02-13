@@ -1,0 +1,13 @@
+# Ignore files containing sensitive credentials
+credentials.txt
+secret_key.pem
+.env
+
+# Ignore directories containing sensitive data
+db_credentials/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore log files
+*.log
