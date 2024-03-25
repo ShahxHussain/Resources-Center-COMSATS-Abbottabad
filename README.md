@@ -3,6 +3,11 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShahxHussain%2FResource-Center-COMSATS-Abbottabad&label=Visitors%2FViews&countColor=%23263759)
 
 
+[![ShahxHussain - Resources-Center-COMSATS-Abbottabad](https://img.shields.io/static/v1?label=ShahxHussain&message=Resources-Center-COMSATS-Abbottabad&color=blue&logo=github)](https://github.com/ShahxHussain/Resources-Center-COMSATS-Abbottabad "Go to GitHub repo")
+[![stars - Resources-Center-COMSATS-Abbottabad](https://img.shields.io/github/stars/ShahxHussain/Resources-Center-COMSATS-Abbottabad?style=social)](https://github.com/ShahxHussain/Resources-Center-COMSATS-Abbottabad)
+[![forks - Resources-Center-COMSATS-Abbottabad](https://img.shields.io/github/forks/ShahxHussain/Resources-Center-COMSATS-Abbottabad?style=social)](https://github.com/ShahxHussain/Resources-Center-COMSATS-Abbottabad)
+
+
 <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShahxHussain%2FResource-Center-COMSATS-Abbottabad"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShahxHussain%2FResource-Center-COMSATS-Abbottabad&label=Visitors%2FViews&countColor=%23263759" /></a> ! -->
 
 <h2>🌟A Unified Repository for COMSATS Academic Resources & Past-Papers📖 </h2>
